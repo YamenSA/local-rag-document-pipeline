@@ -43,7 +43,7 @@ graph TD
 
 ## 📸 Application Demo
 
-> _Screenshot of the running Streamlit interface._
+![Application User Interface](docs/app_demo_localhost.png)
 
 ---
 
