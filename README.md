@@ -1,6 +1,3 @@
-Hier ist absolut alles für deine `README.md` – in einem einzigen, direkten Codeblock zum Kopieren:
-
-```markdown
 # 🤖 Local RAG Document Chat Assistant
 
 A privacy-focused, fully local **Retrieval-Augmented Generation (RAG)** system that allows users to have an interactive chat with their PDF documents. The application runs entirely offline on your local machine, ensuring complete data privacy with zero API costs.
