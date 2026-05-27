@@ -11,3 +11,5 @@ __pycache__/
 data/
 *.db
 *.sqlite3
+# ChromaDB Ordner ignorieren
+chroma_db/
